@@ -1,7 +1,7 @@
 {
   "name": "view-size",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the viewport size",
   "license": "MIT",
   "repository": "bendrucker/view-size",
