@@ -1,4 +1,4 @@
-# view-size [![Build Status](https://travis-ci.org/bendrucker/view-size.svg?branch=master)](https://travis-ci.org/bendrucker/view-size)
+# view-size [![Build Status](https://travis-ci.org/bendrucker/view-size.svg?branch=master)](https://travis-ci.org/bendrucker/view-size) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/view-size.svg)](https://greenkeeper.io/)
 
 > Get the viewport size
 
